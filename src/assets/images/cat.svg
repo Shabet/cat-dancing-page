@@ -1,0 +1,49 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cat body -->
+  <ellipse cx="100" cy="140" rx="45" ry="35" fill="#FF7F50" stroke="#FF6347" stroke-width="2"/>
+
+  <!-- Cat head -->
+  <circle cx="100" cy="80" r="40" fill="#FF7F50" stroke="#FF6347" stroke-width="2"/>
+
+  <!-- Cat ears -->
+  <path d="M70 55 L75 35 L85 50 Z" fill="#FF7F50" stroke="#FF6347" stroke-width="2"/>
+  <path d="M115 50 L125 35 L130 55 Z" fill="#FF7F50" stroke="#FF6347" stroke-width="2"/>
+
+  <!-- Inner ears -->
+  <path d="M75 50 L78 40 L82 48 Z" fill="#FFB6C1"/>
+  <path d="M118 48 L122 40 L125 50 Z" fill="#FFB6C1"/>
+
+  <!-- Cat eyes -->
+  <circle cx="90" cy="75" r="6" fill="#000"/>
+  <circle cx="110" cy="75" r="6" fill="#000"/>
+  <circle cx="92" cy="73" r="2" fill="#FFF"/>
+  <circle cx="112" cy="73" r="2" fill="#FFF"/>
+
+  <!-- Cat nose -->
+  <path d="M98 85 L102 85 L100 88 Z" fill="#FF1493"/>
+
+  <!-- Cat mouth -->
+  <path d="M100 88 Q95 92 90 90" stroke="#000" stroke-width="2" fill="none"/>
+  <path d="M100 88 Q105 92 110 90" stroke="#000" stroke-width="2" fill="none"/>
+
+  <!-- Cat whiskers -->
+  <line x1="60" y1="80" x2="85" y2="78" stroke="#000" stroke-width="1"/>
+  <line x1="60" y1="85" x2="85" y2="85" stroke="#000" stroke-width="1"/>
+  <line x1="115" y1="78" x2="140" y2="80" stroke="#000" stroke-width="1"/>
+  <line x1="115" y1="85" x2="140" y2="85" stroke="#000" stroke-width="1"/>
+
+  <!-- Cat tail -->
+  <path d="M135 145 Q160 130 155 100 Q150 80 170 75" stroke="#FF7F50" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- Cat legs -->
+  <ellipse cx="80" cy="170" rx="8" ry="15" fill="#FF7F50"/>
+  <ellipse cx="95" cy="170" rx="8" ry="15" fill="#FF7F50"/>
+  <ellipse cx="105" cy="170" rx="8" ry="15" fill="#FF7F50"/>
+  <ellipse cx="120" cy="170" rx="8" ry="15" fill="#FF7F50"/>
+
+  <!-- Cat paws -->
+  <circle cx="80" cy="185" r="6" fill="#FF6347"/>
+  <circle cx="95" cy="185" r="6" fill="#FF6347"/>
+  <circle cx="105" cy="185" r="6" fill="#FF6347"/>
+  <circle cx="120" cy="185" r="6" fill="#FF6347"/>
+</svg>
